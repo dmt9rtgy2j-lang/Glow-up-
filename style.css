@@ -1,0 +1,55 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to bottom, #FFF1E6, #FFC8DD);
+  text-align: center;
+  padding: 40px;
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  width: 350px;
+  margin: auto;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+h1 {
+  color: #CDB4DB;
+}
+
+.subtitle {
+  color: #888;
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  background-color: #CDB4DB;
+  border: none;
+  padding: 10px 15px;
+  margin: 5px;
+  border-radius: 20px;
+  cursor: pointer;
+  color: white;
+  font-size: 14px;
+}
+
+.buttons button:hover {
+  background-color: #b89ccf;
+}
+
+.output {
+  margin-top: 20px;
+  font-size: 15px;
+  color: #444;
+}
+
+.vibe-btn {
+  margin-top: 20px;
+  background-color: #FFAFCC;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  color: white;
+}
